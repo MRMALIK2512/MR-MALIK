@@ -9,6 +9,24 @@ export default function Contact() {
       <div id="contact" className="pt-40 text-right flex justify-end">
         <GlitchTitle title="make_cøntact" textColor=""/>
       </div>
+      <div className="w-full  mt-10">
+        <div className="w-[300px] h-[300px] rounded-full overflow-hidden mx-auto object-conatain">
+        <img src="/PROFILE.png" alt="" />
+        </div>
+        <div className="max-w-[300px] text-sm mx-auto mt-20  mb-8 font-normal lg:text-base  !text-white hover:scale-[1.1] transition-all duration-150 ease-linear whitespace-nowrap  bg-[#ff034f] pl-8 py-4 rounded-xl ">
+         <Link
+
+          href="/Malik-umar-updated.pdf"
+          target="_blank"
+          rel="noreferrer"
+          type="application/pdf" 
+          className="w-full text-center"
+        >
+          Download Resume/CV as PDF
+        </Link>    
+        </div>
+         
+      </div>
       <RegularSection lineColor="to-black">
         <Typography variant="h6" className="mb-2 lg:mb-8">
           SEND ME AN EMAIL TO

@@ -17,7 +17,8 @@ export default function HighlightedProject() {
       <RegularSection id="projects">
       <Typography variant="h1" className="mb-8">
         #1 <br />
-        StudyNotion
+        Study
+        Notion
       </Typography>
         <div className="lg:w-[75%] max-w-[700px] mb-8 lg:mb-16">
           <Typography>
@@ -35,7 +36,7 @@ export default function HighlightedProject() {
         </Typography>
       </RegularSection>
 
-      <ImagesCarousel items={StudyNotionfeaturesList} />
+      <ImagesCarousel items={StudyNotionfeaturesList}  />
 
       <RegularSection>
         <Typography variant="h2" className="!text-white mb-4">

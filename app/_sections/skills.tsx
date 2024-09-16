@@ -10,32 +10,32 @@ export default function Skills() {
       <GlitchTitle title="Skiłłs" textColor ="!text-lk-green" />
       <ul className="mb-16 lg:mb-28 flex flex-col gap-3 lg:gap-6 mt-20">
         <li>
-          <Typography className="!text-lk-green flex items-center gap-6 text-4xl" variant="h2" >
-            Programming Languages :<Typography variant="small" className="!text-lk-pink">C++</Typography>
+          <Typography className="!text-lk-green flex  gap-6 text-4xl xl:flex-row flex-col" variant="h2" >
+            Programming Languages <Typography variant="small" className="!text-lk-pink">C++</Typography>
             <Typography variant="small" className="!text-lk-pink">Python</Typography> <Typography variant="small" className="!text-lk-pink" >Javascript</Typography>
           </Typography>
         </li>
         <li>
-        <Typography className="!text-lk-green flex items-center gap-6 text-4xl" variant="h2">
-            FrontEnd :<Typography variant="small" className="!text-lk-pink">React</Typography>
+        <Typography className="!text-lk-green flex  gap-6 text-4xl xl:flex-row flex-col" variant="h2">
+            FrontEnd <Typography variant="small" className="!text-lk-pink">React</Typography>
             <Typography variant="small" className="!text-lk-pink">Tailwind</Typography> <Typography variant="small" className="!text-lk-pink" >Redux</Typography>
           </Typography>
         </li>
         <li>
-        <Typography className="!text-lk-green flex items-center gap-6 text-4xl" variant="h2">
-            BackEnd :<Typography variant="small" className="!text-lk-pink">ExpressJS</Typography>
+        <Typography className="!text-lk-green flex  gap-6 text-4xl xl:flex-row flex-col" variant="h2">
+            BackEnd  <Typography variant="small" className="!text-lk-pink">ExpressJS</Typography>
             <Typography variant="small" className="!text-lk-pink">NodeJs</Typography> <Typography variant="small" className="!text-lk-pink" >Flask</Typography>
           </Typography>
         </li>
         <li>
-        <Typography className="!text-lk-green flex items-center gap-6 text-4xl" variant="h2">
-            DataBase :<Typography variant="small" className="!text-lk-pink">MongoDB</Typography>
+        <Typography className="!text-lk-green flex  gap-6 text-4xl xl:flex-row flex-col" variant="h2">
+            DataBase <Typography variant="small" className="!text-lk-pink">MongoDB</Typography>
             <Typography variant="small" className="!text-lk-pink">MySql</Typography>
           </Typography>
         </li>
         <li>
-        <Typography className="!text-lk-green flex items-center gap-6 text-4xl" variant="h2">
-            Other Skills :<Typography variant="small" className="!text-lk-pink">Data Analytics</Typography>
+        <Typography className="!text-lk-green flex  gap-6 text-4xl xl:flex-row flex-col" variant="h2">
+            Other Skills <Typography variant="small" className="!text-lk-pink">Data Analytics</Typography>
             <Typography variant="small" className="!text-lk-pink">DSA</Typography> <Typography variant="small" className="!text-lk-pink" >Machine Learning</Typography>
           </Typography>
         </li>
