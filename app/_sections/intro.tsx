@@ -10,7 +10,7 @@ export default function Intro() {
     <section className="min-h-[88svh] max-w-screen-xl mx-auto px-8 md:px-10 sticky top-0 flex flex-col justify-end pt-20 pb-20 overflow-x-hidden show-intro">
       <Logo size="small" />
       <Typography className="mt-2 mb-1 lg:mb-4 !text-2xl lg:!text-4xl !font-normal">
-       MR MALIK
+      MALIK UMAR TAABISH
       </Typography>
       <div className="flex flex-col md:flex-row md:items-end gap-8 lg:gap-8 xl:gap-12 md:justify-between">
         <DynamicTitle />

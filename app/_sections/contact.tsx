@@ -41,7 +41,7 @@ export default function Contact() {
           ALSO FIND ME ON
         </Typography>
         <div className="flex gap-2 mb-2">
-          <Link href="https://linkedin.com/in/liamklyneker" target="_blank">
+          <Link href="https://www.linkedin.com/in/malikumartaabish/" target="_blank">
             <Typography className="!text-white underline hover:bg-lk-turquoise">
               LinkedIn
             </Typography>
